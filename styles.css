@@ -1,0 +1,35 @@
+h1{
+    color: black;
+}
+
+/* How do I select for children of specific elements? */
+
+ul {
+   font-size: 36pt;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    list-style: none;
+    padding-left: 0%;
+}
+
+ul li {
+    border: 3px outset;
+    display: inline-block;
+    font-size: 36pt;
+}
+
+img {
+    display: block;
+    margin: auto;
+    
+
+}
+
+#pic1 {
+
+}
+
+#pic2 {
+    margin: auto;
+}
